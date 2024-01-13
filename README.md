@@ -5,19 +5,6 @@
 
 <!-- Introduction -->
 <h1 align="center">Hello there, I'm Adnan! 👋</h1>
-```js
-const myself = {
-  name: "Your Name",
-  age: 25,
-  occupation: "Software Developer",
-  hobbies: ["coding", "reading", "traveling"],
-  isStudent: false,
-  favoriteLanguage: "JavaScript",
-  introduce: function() {
-    console.log(`Hi, I'm ${this.name}. I'm a ${this.age}-year-old ${this.occupation}.`);
-  }
-};
-```
 <!-- LinkedIn and Email -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-adnan-852037263/">
